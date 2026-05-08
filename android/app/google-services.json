@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "788000672662",
+    "project_id": "mentalhealth-8d43a",
+    "storage_bucket": "mentalhealth-8d43a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788000672662:android:3ad0979b3b4378c61b6bb7",
+        "android_client_info": {
+          "package_name": "com.mindmate.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788000672662-2jdjm2t2uqmq5sirllcpfs64hqhvf6nh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindmate.app",
+            "certificate_hash": "e01bf21c23a6f353e2c81937e76fbc323f8b8e52"
+          }
+        },
+        {
+          "client_id": "788000672662-4rb504lcneumfoi27g3mjllu8djnoro2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2i-lPvDmP6IAu-XPhde6NcDi4MH03Oac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788000672662-4rb504lcneumfoi27g3mjllu8djnoro2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788000672662-7mme3p4pesrj6755i65ubtrivg4f8rkk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mindmate.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
